@@ -1,0 +1,6 @@
+Criterios de aceptación:
+-La plataforma debe permitir la inserción de contenido multimedia a través de una URL, como videos pregrabados, presentaciones, anuncios, etc.
+-La plataforma debe ser capaz de conectarse de manera efectiva con software de transmisión en vivo, como Wirecast u OBS, para gestionar el sonido y las cámaras.
+-Debe ser posible realizar transiciones manuales entre cámaras a través de un dispositivo de control.
+-La integración de contenido multimedia debe ser sencilla y de baja latencia para garantizar una transmisión en tiempo real sin problemas.
+-Se deben proporcionar instrucciones claras y documentación para configurar y utilizar esta funcionalidad.
